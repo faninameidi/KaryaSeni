@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KaryaSeni</string>
+    <string name="facebook_app_id">416267919292942</string>
+    <string name="fb_login_protocol_scheme">fb416267919292942</string>
+</resources>
